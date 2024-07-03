@@ -1,0 +1,21 @@
+:root {
+    /* Azuis */
+    --rich-black: #000919;
+    --oxford-blue: #001D3F;
+    --yale-blue: #04356a;
+    --polynesian-blue: #054e98;
+    --celtic-blue: #0a6ed3;
+
+    /* Brancos */
+    --stronger-white: #FFFFFF;
+    --strong-white: #F0EDE6;
+    --soft-white: #E7E3DA;
+    --softer-white: #E0DACE;
+    --lightweight-white: #D7D1C1;
+
+    /* Gatinho */
+    --darker-blue: #07010F;
+    --light-orange: #F08B33;
+    --medium-orange: #D65303;
+    --strong-orange: #892C01;
+}
