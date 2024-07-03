@@ -27,4 +27,3 @@ O projeto está licenciado sobre a MIT, [veja-a aqui](LICENSE)
 ### Sobre nós
 Somos uma marca brasileira que nasceu com o objetivo de deixar o dia das pessoas mais alegre e divertido por meio de jogos online. Estamos presentes nas redes brasileiras. Nossa equipe consiste de jovens programadores da GerminareTECH. Acreditamos na criatividade e na dopamina, somos altamente sustentáveis. Procuramos criar valor para todos em qualquer lugar através do advento da tecnologia online.
 </div>
-
