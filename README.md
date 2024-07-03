@@ -11,3 +11,4 @@ SOBRE NÓS:
 
 >Slogan<
 # Jogo bom é na Triton!
+# Seu jogo a um click de distância! Triton
