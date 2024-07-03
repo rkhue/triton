@@ -1,9 +1,3 @@
-<style>
-    .img {
-        border-radius: 12px
-    }
-</style>
-
 # Triton
 Nós da Triton Inc, somos jovens programadores da GerminareTECH e temos o objetivo de criar jogos envolventes e de alta qualidade.
 
@@ -22,7 +16,7 @@ O projeto está licenciado sobre a MIT, [veja-a aqui](LICENSE)
 * Felipe Fernandes dos Santos Oliveira
 * Lucas Taxiotti
 
-<img src="./assets/img/Empresa.svg" width="50%" class="img">
+<img src="./assets/img/Empresa.svg" width="50%" class="img" style="border-radius: 12px">
 
 ### Sobre nós
 Somos uma marca brasileira que nasceu com o objetivo de deixar o dia das pessoas mais alegre e divertido por meio de jogos online. Estamos presentes nas redes brasileiras. Nossa equipe consiste de jovens programadores da GerminareTECH. Acreditamos na criatividade e na dopamina, somos altamente sustentáveis. Procuramos criar valor para todos em qualquer lugar através do advento da tecnologia online.
