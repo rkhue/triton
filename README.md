@@ -2,7 +2,7 @@
 Nós da Triton Inc, somos jovens programadores da GerminareTECH e temos o objetivo de criar jogos envolventes e de alta qualidade.
 
 # Links de Desenvolvimento
-* Artes visuais do Figma: https://www.figma.com/design/U68WI9LYpewIm4N8yZez7f/Triton?node-id=0-1&t=eY3yYOwOAum5fH6W-0
+* Artes visuais [no Figma](https://www.figma.com/design/U68WI9LYpewIm4N8yZez7f/Triton?node-id=0-1&t=eY3yYOwOAum5fH6W-0)
 * Estilos CSS [aqui](./assets/style/pallete.css)
 
 # Licença
