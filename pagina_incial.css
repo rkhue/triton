@@ -1,0 +1,81 @@
+html {
+    background-color: var(--strong-white);
+}
+
+header {
+    background-color: var(--stronger-white);
+    position: absolute;
+    display: block;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 98%;
+    justify-content: space-around;
+    padding: 15px;
+    height: 60px;
+}
+boraDeixarGeralJunto {
+    display: flex;
+    justify-content: space-between;
+}
+inicioHeader {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    max-width: 200px;
+}
+meioHeader {
+    word-spacing: 8px;
+    letter-spacing: 3px;
+    color: #211b15;
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    align-items: center;
+    margin-left: 9%;
+}
+finalHeader {
+    display: flex;
+    flex: 3;
+    justify-content: space-between;
+    max-width: 350px;
+    margin-right: 10px;
+}
+
+#entrar {
+    letter-spacing: 3px;
+    margin-top: 25px;
+    font-size: 20px;
+    color: var(--rich-black);
+    text-decoration: none;
+}
+
+#cadastrar {
+    width: 200px;
+    height: 45px;
+    margin-top: 12.5px;
+    background-color: var(--celtic-blue);
+    border-radius: 20px;
+    font-size: 20px;
+    border: 0;
+    color: var(--stronger-white);
+    box-shadow: 0 2px 4px gray;
+}
+hr {
+    border: none;
+    height: 3px;
+    margin-top: 90px;
+    background-color: var(--medium-orange);
+}
+#tridente {
+    width: 60px;
+    height: 70px;
+}
+#barraVertical {
+    width: 1px;
+    height: 45px;
+    background-color: var(--rich-black);
+    margin-top: 15px;
+}
+
+/*  gap: 10px; no flex!!!*/
