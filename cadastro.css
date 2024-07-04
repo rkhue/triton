@@ -1,0 +1,87 @@
+/* ==Paleta de Cores==
+--rich-black: #000919;
+--oxford-blue: #001D3F;
+--yale-blue: #04356a;
+--polynesian-blue: #054e98;
+--celtic-blue: #0a6ed3; 
+
+--stronger-white: #FFFFFF;
+--strong-white: #F0EDE6;
+--soft-white: #E7E3DA;
+--softer-white: #E0DACE;
+--lightweight-white: #D7D1C1;
+
+--darker-blue: #07010F;
+--light-orange: #F08B33;
+--medium-orange: #D65303;
+--strong-orange: #892C01;
+*/
+
+body{    
+    background: linear-gradient(90deg, #e68349, #F08B33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    margin-top: 100px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:#F0EDE6;
+    border: none;
+    width: 500px;
+    height: 500px;
+    border-radius: 4%;
+}
+label{
+    color: #D65303;
+    font-weight: 600;
+}
+#perfil{
+    width: 9%;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #892C01;
+    border-radius: 50%;
+}
+label{
+    margin-top: 4%;
+}
+input{
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    width: 100%;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+}
+#Botao{
+    font-size: large;
+    background: linear-gradient(to left, #D65303, #F08B33);
+    color: #FFFFFF;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.campo{
+    margin-top: 25px;
+}
+.inter-uniquifier {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
